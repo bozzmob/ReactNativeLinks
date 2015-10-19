@@ -1,6 +1,17 @@
 # React Native Links
 
-Links to [React Native](http://facebook.github.io/react-native/) related articles, code, and other resources. 
+Links to [React Native](http://facebook.github.io/react-native/) related articles, code, and other resources.
+
+## 10-19-15
+
+- [Deep Diving React Native Debugging](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691)
+- [React Native — the solution to Hybrid apps?](https://medium.com/@satya164/react-native-solution-to-hybrid-apps-5ff4d5696061)
+- [React Native - Easy Overlay Modal with Navigator](http://browniefed.com/blog/2015/10/18/react-native-easy-overlay-modal-with-navigator/)
+- [React Native for Web](https://github.com/necolas/react-native-web)
+- [Customizable navbar for react-native](https://github.com/Kureev/react-native-navbar)
+- [Making Tucci: The Technical Details](https://medium.com/@clayallsopp/making-tucci-the-technical-details-cc7aded6c75f)
+- [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
+- [React Native - How to make Facebook Reactions](http://browniefed.com/blog/2015/10/11/react-native-how-to-make-facebook-reactions/)
 
 ## 10-14-15
 
