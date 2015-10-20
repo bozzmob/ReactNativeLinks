@@ -2,6 +2,13 @@
 
 Links to [React Native](http://facebook.github.io/react-native/) related articles, code, and other resources.
 
+## 10-20-15
+
+- [Building React Native Apps](http://tech.taskrabbit.com/blog/2015/10/18/building-react-native-apps/)
+- [Routing and Navigation in React Native](https://medium.com/the-exponent-log/routing-and-navigation-in-react-native-6b27bee39603)
+- [React Native deployment with Fastlane](https://weluse.de/blog/react-native-deployment-with-fastlane.html)
+- [Developing React Native Android Apps with Linux](http://www.blackpepper.co.uk/developing-react-native-android-apps-with-linux/)
+
 ## 10-19-15
 
 - [Deep Diving React Native Debugging](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691)
