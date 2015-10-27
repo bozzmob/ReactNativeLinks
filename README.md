@@ -2,6 +2,15 @@
 
 Links to [React Native](http://facebook.github.io/react-native/) related articles, code, and other resources.
 
+## 10-27-15
+
+- [React Native from a mobile (iOS) developer](https://vimeo.com/142871315)
+- [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352)
+- [React Native - Recreating the Apple TV Icons](http://browniefed.com/blog/2015/10/23/react-native-recreating-the-apple-tv-icons/)
+- [Cross-platform React stories](https://medium.com/any-stack-any-language-anywhere/cross-platform-react-stories-b2261f412f54#.3wdvxkxe5)
+- [Adventures with React Native](http://www.mattzabriskie.com/blog/adventures-with-react-native)
+- [React Native - Modules (Android)](http://www.emilmork.net/javascript/react-native/android/2015/10/18/react-native-module/)
+
 ## 10-20-15
 
 - [Building React Native Apps](http://tech.taskrabbit.com/blog/2015/10/18/building-react-native-apps/)
