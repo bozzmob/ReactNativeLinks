@@ -2,6 +2,13 @@
 
 Links to [React Native](http://facebook.github.io/react-native/) related articles, code, and other resources.
 
+
+## 10-28-15
+
+- [Writing Android component for React Native](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377)
+- [React Native Playground - Build, test and share RN apps](https://rnplay.org)
+- [Crash Analytics and Feedback for ReactNative Apps](http://blog.nparashuram.com/2015/10/crash-analytics-and-feedback-for.html)
+
 ## 10-27-15
 
 - [React Native from a mobile (iOS) developer](https://vimeo.com/142871315)
