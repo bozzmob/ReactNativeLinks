@@ -3,6 +3,13 @@
 Links to [React Native](http://facebook.github.io/react-native/) related articles, code, and other resources.
 
 
+## 11-02-15
+
+- [Learning React Native (early release ebook)](http://shop.oreilly.com/product/0636920041511.do)
+- [Sharing Components Between React and React Native](https://medium.com/@aakashns/sharing-components-between-react-and-react-native-f6ce3713658a#.lu7r58abc)
+- [Why React Native is Different](https://www.youtube.com/watch?v=ZM2NAD__iK4)
+- [react-native-animatable - Standard set of easy to use animations and declarative transitions](https://github.com/oblador/react-native-animatable)
+
 ## 10-28-15
 
 - [Writing Android component for React Native](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377)
