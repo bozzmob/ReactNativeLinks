@@ -2,6 +2,10 @@
 
 Links to [React Native](http://facebook.github.io/react-native/) related articles, code, and other resources.
 
+## 11-06-15
+
+- [React Native Layout Examples](http://browniefed.com/blog/2015/06/07/react-native-layout-examples/)
+- [Makerist Mediathek: Launch of our first React Native mobile app and how we got there](https://www.railslove.com/stories/makerist-mediathek-mobile-app-react-native)
 
 ## 11-05-15
 
