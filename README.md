@@ -2,6 +2,11 @@
 
 Links to [React Native](http://facebook.github.io/react-native/) related articles, code, and other resources.
 
+## 11-23-15
+
+- [Making React apps accessible](https://code.facebook.com/posts/435862739941212)
+- [Testing react-native components with Jest](http://www.schibsted.pl/2015/10/testing-react-native-components-with-jest/)
+
 ## 11-06-15
 
 - [React Native Layout Examples](http://browniefed.com/blog/2015/06/07/react-native-layout-examples/)
