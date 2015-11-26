@@ -2,6 +2,28 @@
 
 Links to [React Native](http://facebook.github.io/react-native/) related articles, code, and other resources.
 
+## 11-23-15
+
+- [Making React apps accessible](https://code.facebook.com/posts/435862739941212)
+- [Testing react-native components with Jest](http://www.schibsted.pl/2015/10/testing-react-native-components-with-jest/)
+
+## 11-06-15
+
+- [React Native Layout Examples](http://browniefed.com/blog/2015/06/07/react-native-layout-examples/)
+- [Makerist Mediathek: Launch of our first React Native mobile app and how we got there](https://www.railslove.com/stories/makerist-mediathek-mobile-app-react-native)
+
+## 11-05-15
+
+- [From React web to native mobile: mapping out the unknown unknowns (Reactive 2015 Conference Video)](https://youtu.be/9cIEtC-V2XE?t=20639)
+- [Under the hood of React Native (Reactive 2015 Conference Video)](https://youtu.be/9cIEtC-V2XE?t=23866)
+- [React Native - How to make Instagram](http://browniefed.com/blog/2015/11/02/react-native-how-to-make-instagram/)
+
+## 11-02-15
+
+- [Learning React Native (early release ebook)](http://shop.oreilly.com/product/0636920041511.do)
+- [Sharing Components Between React and React Native](https://medium.com/@aakashns/sharing-components-between-react-and-react-native-f6ce3713658a#.lu7r58abc)
+- [Why React Native is Different](https://www.youtube.com/watch?v=ZM2NAD__iK4)
+- [react-native-animatable - Standard set of easy to use animations and declarative transitions](https://github.com/oblador/react-native-animatable)
 
 ## 10-28-15
 
