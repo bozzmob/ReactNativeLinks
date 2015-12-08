@@ -2,6 +2,10 @@
 
 Links to [React Native](http://facebook.github.io/react-native/) related articles, code, and other resources.
 
+## 12-08-15
+
+- [Writing a 'trampoline' in assembly for profiling](http://tadeuzagallo.com/blog/writing-a-trampoline-in-assembly/)
+
 ## 11-23-15
 
 - [Making React apps accessible](https://code.facebook.com/posts/435862739941212)
