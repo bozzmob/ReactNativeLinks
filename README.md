@@ -7,6 +7,7 @@ Links to [React Native](http://facebook.github.io/react-native/) related article
 - [Writing a 'trampoline' in assembly for profiling](http://tadeuzagallo.com/blog/writing-a-trampoline-in-assembly/)
 - [React Native - How to bridge a Swift View](http://browniefed.com/blog/2015/11/28/react-native-how-to-bridge-a-swift-view/)
 - [Two Steps to Navigation in React Native](https://medium.com/@arpith/two-steps-to-navigation-in-react-native-3f3a3cd27049#.xup9c7yc4)
+- [React Native - How to Bridge an Objective-C View Component](http://browniefed.com/blog/2015/11/24/react-native-how-to-bridge-an-objective-c-view-component/)
 
 ## 11-23-15
 
