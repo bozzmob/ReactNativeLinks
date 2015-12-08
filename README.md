@@ -5,6 +5,7 @@ Links to [React Native](http://facebook.github.io/react-native/) related article
 ## 12-08-15
 
 - [Writing a 'trampoline' in assembly for profiling](http://tadeuzagallo.com/blog/writing-a-trampoline-in-assembly/)
+- [React Native - How to bridge a Swift View](http://browniefed.com/blog/2015/11/28/react-native-how-to-bridge-a-swift-view/)
 
 ## 11-23-15
 
